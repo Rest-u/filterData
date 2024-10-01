@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.posting {
+  background: tomato;
+}
